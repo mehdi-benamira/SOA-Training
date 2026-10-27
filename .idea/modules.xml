@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GraphQL/GraphQlLogement.iml" filepath="$PROJECT_DIR$/GraphQL/GraphQlLogement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SOA-Training.iml" filepath="$PROJECT_DIR$/.idea/SOA-Training.iml" />
     </modules>
   </component>
